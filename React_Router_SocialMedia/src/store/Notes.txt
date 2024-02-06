@@ -1,0 +1,5 @@
+in router we have covered follwing things: 
+a)based on our requirement we can open the pages and with new url 
+b)if we want to share some part like in our case we want to share sidebar and header in both Postlist and createlist so we can do it using Layout routes
+c)using link tag with "to" attribute instead of anchor tag we can ensure that  when anyone visit to our link then entire page will not be loaded
+d)use useNavigate() we can navigate dynamically
